@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Roguepatrol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lathesh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ms": "^2.1.2",
+    "node": "^15.4.0",
+    "pm2": "^4.5.0"
+  }
+}
